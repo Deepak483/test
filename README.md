@@ -1,2 +1,3 @@
 # test
-some sample files
+test repo for demonstration of git commands
+
